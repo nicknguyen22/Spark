@@ -1,4 +1,4 @@
-#Spark - Audio Similarity: Binary & Multiclass classification
+# Spark - Audio Similarity: Binary & Multiclass classification
 
 This notebook uses Spark Machine Learning Library, on Spark Distributed 
 Computing Platform to predict song genres from audio data. It applies Ridge 
