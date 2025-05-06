@@ -1,4 +1,4 @@
-#Spark - Song Recommendations by Collaborative Filtering (ALS)
+# Spark - Song Recommendations by Collaborative Filtering (ALS)
 
 This Spark notebook is dedicated to creating a song recommendation system 
 through collaborative filtering. Leveraging the power of the Spark.ml library, it 
